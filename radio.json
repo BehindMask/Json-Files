@@ -1,56 +1,57 @@
 [{
-	
+	"name": "Radio Foorti",
 	"url": {
-		"medium": "http://imgur.com/13GuVPb.jpg",
-		"large": "http://119.148.23.88:1021/;stream/1"
-	},
-	"timestamp": "February 12, 2016"
+		"frequency": "FM 88.0",
+		"image": "http://imgur.com/13GuVPb.jpg",
+		"link": "http://119.148.23.88:1021/;stream/1"
+	}
+	
 },
 {
-	
+	"name": "Dhaka FM",
 	"url": {
-		"medium": "http://imgur.com/0F5j4sz.jpg",
-		"large": "http://119.148.23.88:1021/;stream/1"
-	},
-	"timestamp": "March 25, 2016"
+		"frequency": "FM 90.4",
+		"image": "http://imgur.com/0F5j4sz.jpg",
+		"link": "http://119.148.23.88:1021/;stream/1"
+	}
 },
 {
-	
+	"name": "Radio Today",
 	"url": {
-		"medium": "http://imgur.com/VzOAUiN.jpg",
-		"large": "http://119.148.23.88:1021/;stream/1"
-	},
-	"timestamp": "July 29, 2016"
+		"frequency": "FM 89.6",
+		"image": "http://imgur.com/VzOAUiN.jpg",
+		"link": "http://119.148.23.88:1021/;stream/1"
+	}
 },
 {
-	
+	"name": "ABC Radio",
 	"url": {
-		"medium": "http://imgur.com/onzOZfe.jpg",
-		"large": "http://119.148.23.88:1021/;stream/1"
-	},
-	"timestamp": "August 5, 2016"
+		"frequency": "FM 89.2",
+		"image": "http://imgur.com/onzOZfe.jpg",
+		"link": "http://119.148.23.88:1021/;stream/1"
+	}
 },
 {
-	
+	"name": "Radio Bhumi",
 	"url": {
-		"medium": "http://imgur.com/x82UxBH.jpg",
-		"large": "http://119.148.23.88:1021/;stream/1"
-	},
-	"timestamp": "August 5, 2016"
+		"frequency": "FM 92.8",
+		"image": "http://imgur.com/x82UxBH.jpg",
+		"link": "http://119.148.23.88:1021/;stream/1"
+	}
 },
 {
-	
+	"name": "Bangla Radio",
 	"url": {
-		"medium": "http://imgur.com/n46wwk1.jpg",
-		"large": "http://119.148.23.88:1021/;stream/1"
-	},
-	"timestamp": "August 5, 2016"
+		"frequency": "FM 95.2",
+		"image": "http://imgur.com/n46wwk1.jpg",
+		"link": "http://119.148.23.88:1021/;stream/1"
+	}
 },
 {
-	
+	"name": "Radio Dhol",
 	"url": {
-		"medium": "http://imgur.com/XJXzaWe.jpg",
-		"large": "http://119.148.23.88:1021/;stream/1"
-	},
-	"timestamp": "August 5, 2016"
+		"frequency": "FM 94.0",
+		"image": "http://imgur.com/XJXzaWe.jpg",
+		"link": "http://119.148.23.88:1021/;stream/1"
+	}
 }]
