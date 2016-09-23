@@ -12,7 +12,7 @@
 	"url": {
 		"frequency": "FM 90.4",
 		"image": "http://imgur.com/0F5j4sz.jpg",
-		"link": "http://119.148.23.88:1021/;stream/1"
+		"link": "http://118.179.219.244:8000/;stream/1"
 	}
 },
 {
@@ -20,7 +20,7 @@
 	"url": {
 		"frequency": "FM 89.6",
 		"image": "http://imgur.com/VzOAUiN.jpg",
-		"link": "http://119.148.23.88:1021/;stream/1"
+		"link": "http://162.144.248.103:9984/;stream/1/;stream/1""
 	}
 },
 {
@@ -28,7 +28,7 @@
 	"url": {
 		"frequency": "FM 89.2",
 		"image": "http://imgur.com/onzOZfe.jpg",
-		"link": "http://119.148.23.88:1021/;stream/1"
+		"link": "http://st2.zenorad.io:14424/;stream/1"
 	}
 },
 {
@@ -36,7 +36,7 @@
 	"url": {
 		"frequency": "FM 92.8",
 		"image": "http://imgur.com/x82UxBH.jpg",
-		"link": "http://119.148.23.88:1021/;stream/1"
+		"link": "http://shaincast.caster.fm:21340/listen.mp3?authna456d2070577d82863a25d17018cca2a"
 	}
 },
 {
@@ -44,7 +44,7 @@
 	"url": {
 		"frequency": "FM 95.2",
 		"image": "http://imgur.com/n46wwk1.jpg",
-		"link": "http://119.148.23.88:1021/;stream/1"
+		"link": "http://43.224.108.244:6020/;stream/1"
 	}
 },
 {
@@ -52,6 +52,6 @@
 	"url": {
 		"frequency": "FM 94.0",
 		"image": "http://imgur.com/XJXzaWe.jpg",
-		"link": "http://119.148.23.88:1021/;stream/1"
+		"link": "http://192.184.9.158:8233/live"
 	}
 }]
