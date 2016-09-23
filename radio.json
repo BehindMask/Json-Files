@@ -20,7 +20,7 @@
 	"url": {
 		"frequency": "FM 89.6",
 		"image": "http://imgur.com/VzOAUiN.jpg",
-		"link": "http://162.144.248.103:9984/;stream/1/;stream/1"
+		"link": "http://162.144.248.103:9984/;stream/1"
 	}
 },
 {
@@ -28,7 +28,7 @@
 	"url": {
 		"frequency": "FM 89.2",
 		"image": "http://imgur.com/onzOZfe.jpg",
-		"link": "http://st2.zenorad.io:14424/;stream/1"
+		"link": "http://st2.zenorad.io:14424/listen.pls"
 	}
 },
 {
