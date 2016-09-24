@@ -36,7 +36,7 @@
 	"url": {
 		"frequency": "FM 92.8",
 		"image": "http://imgur.com/x82UxBH.jpg",
-		"link": "http://shaincast.caster.fm:21340/listen.mp3"
+		"link": "http://shaincast.caster.fm:21340/listen.mp3?authna456d2070577d82863a25d17018cca2a"
 	}
 },
 {
@@ -53,5 +53,37 @@
 		"frequency": "FM 94.0",
 		"image": "http://imgur.com/XJXzaWe.jpg",
 		"link": "http://192.184.9.158:8233/live"
+	}
+},
+{
+	"name": "Radio Capital",
+	"url": {
+		"frequency": "FM 94.8",
+		"image": "http://imgur.com/aRwrcM3.jpg",
+		"link": "http://198.178.121.76:8165/stream"
+	}
+},
+{
+	"name": "Radio Shadhin",
+	"url": {
+		"frequency": "FM 92.4",
+		"image": "http://imgur.com/jU7CiZ0.jpg",
+		"link": "http://89.163.128.81:8240/;stream/1"
+	}
+},
+{
+	"name": "Jago FM",
+	"url": {
+		"frequency": "FM 94.4",
+		"image": "http://imgur.com/FvcUnSI.jpg",
+		"link": "http://192.240.102.3:9099/;stream"
+	}
+},
+{
+	"name": "Radio Aamar",
+	"url": {
+		"frequency": "FM 88.4",
+		"image": "http://imgur.com/wkkCP1G.jpg",
+		"link": "http://192.184.9.158:8343/live?type=.mp3"
 	}
 }]
