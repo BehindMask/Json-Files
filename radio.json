@@ -158,4 +158,28 @@
 		"image": "http://imgur.com/yuGx04m.jpg",
 		"link": "http://cast.nawabhost.com:8010/stream/1/play"
 	}
+},
+{
+	"name": "Radio Bangla Rock",
+	"url": {
+		"frequency": "Online Radio",
+		"image": "http://imgur.com/KIVaUUp.jpg",
+		"link": "http://188.166.176.244:8020/;stream/1"
+	}
+},
+{
+	"name": "Disco Banee",
+	"url": {
+		"frequency": "Online Radio",
+		"image": "http://imgur.com/vstwOw2.jpg",
+		"link": "http://188.166.176.244:8008/;stream/1"
+	}
+},
+{
+	"name": "Radio Bongonet",
+	"url": {
+		"frequency": "Online Radio",
+		"image": "http://imgur.com/qgQANXr.jpg",
+		"link": "http://188.166.176.244:8000/;stream/1"
+	}
 }]
