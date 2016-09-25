@@ -2,7 +2,7 @@
 	"name": "Radio Foorti",
 	"url": {
 		"frequency": "FM 88.0",
-		"image": "http://imgur.com/13GuVPb.jpg",
+		"image": "http://imgur.com/C9gNy5x.jpg",
 		"link": "http://119.148.23.88:1021/;stream/1"
 	}
 	
@@ -11,7 +11,7 @@
 	"name": "Dhaka FM",
 	"url": {
 		"frequency": "FM 90.4",
-		"image": "http://imgur.com/0F5j4sz.jpg",
+		"image": "http://imgur.com/OmurRKL.jpg",
 		"link": "http://118.179.219.244:8000/;stream/1"
 	}
 },
@@ -19,7 +19,7 @@
 	"name": "Radio Today",
 	"url": {
 		"frequency": "FM 89.6",
-		"image": "http://imgur.com/VzOAUiN.jpg",
+		"image": "http://imgur.com/vgsNY9h.jpg",
 		"link": "http://162.144.248.103:9984/;stream/1"
 	}
 },
@@ -27,7 +27,7 @@
 	"name": "ABC Radio",
 	"url": {
 		"frequency": "FM 89.2",
-		"image": "http://imgur.com/onzOZfe.jpg",
+		"image": "http://imgur.com/IxE9Z9f.jpg",
 		"link": "http://st2.zenorad.io:14424/;stream/1"
 	}
 },
@@ -35,7 +35,7 @@
 	"name": "Radio Bhumi",
 	"url": {
 		"frequency": "FM 92.8",
-		"image": "http://imgur.com/x82UxBH.jpg",
+		"image": "http://imgur.com/RJ1EYVF.jpg",
 		"link": "http://shaincast.caster.fm:21340/listen.mp3?authna456d2070577d82863a25d17018cca2a"
 	}
 },
@@ -43,7 +43,7 @@
 	"name": "Bangla Radio",
 	"url": {
 		"frequency": "FM 95.2",
-		"image": "http://imgur.com/n46wwk1.jpg",
+		"image": "http://imgur.com/k33dU9w.jpg",
 		"link": "http://43.224.108.244:6020/;stream/1"
 	}
 },
@@ -51,7 +51,7 @@
 	"name": "Radio Dhol",
 	"url": {
 		"frequency": "FM 94.0",
-		"image": "http://imgur.com/MDoheHc.jpg",
+		"image": "http://imgur.com/C2LaW0j.jpg",
 		"link": "http://192.184.9.158:8233/live"
 	}
 },
@@ -59,7 +59,7 @@
 	"name": "Radio Capital",
 	"url": {
 		"frequency": "FM 94.8",
-		"image": "http://imgur.com/aRwrcM3.jpg",
+		"image": "http://imgur.com/B8g4MtP.jpg",
 		"link": "http://198.178.121.76:8165/stream"
 	}
 },
@@ -67,7 +67,7 @@
 	"name": "Radio Shadhin",
 	"url": {
 		"frequency": "FM 92.4",
-		"image": "http://imgur.com/jU7CiZ0.jpg",
+		"image": "http://imgur.com/r52W3AV.jpg",
 		"link": "http://89.163.128.81:8240/;stream/1"
 	}
 },
@@ -75,7 +75,7 @@
 	"name": "Jago FM",
 	"url": {
 		"frequency": "FM 94.4",
-		"image": "http://imgur.com/FvcUnSI.jpg",
+		"image": "http://imgur.com/rTnYaMn.jpg",
 		"link": "http://192.240.102.3:9099/;stream"
 	}
 },
@@ -83,7 +83,79 @@
 	"name": "Radio Aamar",
 	"url": {
 		"frequency": "FM 88.4",
-		"image": "http://imgur.com/wkkCP1G.jpg",
+		"image": "http://imgur.com/DcRYlGf.jpg",
 		"link": "http://192.184.9.158:8343/live?type=.mp3"
+	}
+},
+{
+	"name": "Radio Jottil",
+	"url": {
+		"frequency": "Online Radio",
+		"image": "http://imgur.com/Yf8pPG1.jpg",
+		"link": "http://listen.radiojottil.com:8348/;stream/1"
+	}
+},
+{
+	"name": "Bangladesh Betar",
+	"url": {
+		"frequency": "FM 103.2",
+		"image": "http://imgur.com/lXa9KgE.jpg",
+		"link": "http://192.235.87.105:13748/;stream/1"
+	}
+},
+{
+	"name": "Radio Next",
+	"url": {
+		"frequency": "FM 93.2",
+		"image": "http://imgur.com/kuaszBg.jpg",
+		"link": "http://115.69.213.43:9000/;stream/1"
+	}
+},
+{
+	"name": "Radio Dhoni",
+	"url": {
+		"frequency": "FM 91.2",
+		"image": "http://imgur.com/sOPRQIr.jpg",
+		"link": "http://182.160.110.180:1020/;stream/1"
+	}
+},
+{
+	"name": "Peoples Radio",
+	"url": {
+		"frequency": "FM 91.6",
+		"image": "http://imgur.com/wPSkRIU.jpg",
+		"link": "http://s3.myradiostream.com:14498/;stream/1"
+	}
+},
+{
+	"name": "Colours",
+	"url": {
+		"frequency": "FM 101.5",
+		"image": "http://imgur.com/eeigPSW.jpg",
+		"link": "http://50.22.212.196:8156/;stream/1"
+	}
+},
+{
+	"name": "Asian Radio",
+	"url": {
+		"frequency": "FM 90.8",
+		"image": "http://imgur.com/w9yWdbg.jpg",
+		"link": "http://202.126.122.43:9595/;stream"
+	}
+},
+{
+	"name": "Radio Borno",
+	"url": {
+		"frequency": "Online Radio",
+		"image": "http://imgur.com/u6h7z9C.jpg",
+		"link": "http://173.236.19.90:8069/;stream/1"
+	}
+},
+{
+	"name": "Radio Mahananda",
+	"url": {
+		"frequency": "FM 98.8",
+		"image": "http://imgur.com/yuGx04m.jpg",
+		"link": "http://cast.nawabhost.com:8010/stream/1/play"
 	}
 }]
