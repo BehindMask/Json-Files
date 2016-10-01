@@ -182,4 +182,124 @@
 		"image": "http://imgur.com/qgQANXr.jpg",
 		"link": "http://188.166.176.244:8000/;stream/1"
 	}
+},
+{
+	"name": "Bangla Wadio",
+	"url": {
+		"frequency": "Online Radio",
+		"image": "http://imgur.com/UFZjMgP.jpg",
+		"link": "http://162.254.150.34:8201/;stream/1"
+	}
+},
+{
+	"name": "eDoctor Radio",
+	"url": {
+		"frequency": "Online Radio",
+		"image": "http://imgur.com/wTzYYXw.jpg",
+		"link": "http://184.154.43.106:8008/;stream/1"
+	}
+},
+{
+	"name": "Lemon24 ",
+	"url": {
+		"frequency": "Online Radio",
+		"image": "http://imgur.com/FG1WSIr.jpg",
+		"link": "http://office.mcc.com.bd:8000/;stream/1"
+	}
+},
+{
+	"name": "Radio Bihongo",
+	"url": {
+		"frequency": "Online Radio",
+		"image": "http://imgur.com/OcmhVrg.jpg",
+		"link": "http://162.254.150.34:7005/;stream/1"
+	}
+},
+{
+	"name": "Radio Deshi FM",
+	"url": {
+		"frequency": "Online Radio",
+		"image": "http://imgur.com/BcYBTl4.jpg",
+		"link": "http://37.187.79.93:8016/live?type=.mp3"
+	}
+},
+{
+	"name": "Radio Ek Tara",
+	"url": {
+		"frequency": "Online Radio",
+		"image": "http://imgur.com/zLVmvjW.jpg",
+		"link": "http://162.254.150.34:7001/;stream/1"
+	}
+},
+{
+	"name": "Radio GoonGoon",
+	"url": {
+		"frequency": "Online Radio",
+		"image": "http://imgur.com/IDpH3eg.jpg",
+		"link": "http://stream.dreamhousebd.com:8888/;stream/1"
+	}
+},
+{
+	"name": "Radio Kotha",
+	"url": {
+		"frequency": "Online Radio",
+		"image": "http://imgur.com/gZXViRf.jpg",
+		"link": "http://188.165.201.120:8016/live?type=.mp3"
+	}
+},
+{
+	"name": "Radio Mainamati",
+	"url": {
+		"frequency": "Online Radio",
+		"image": "http://imgur.com/VugaX0L.jpg",
+		"link": "http://162.254.150.34:8207/;stream/1"
+	}
+},
+{
+	"name": "Radio Munna",
+	"url": {
+		"frequency": "Online Radio",
+		"image": "http://imgur.com/p6zYuwj.jpg",
+		"link": "http://188.165.201.120:8012/live?type=.mp3"
+	}
+},
+{
+	"name": "Radio Shongi",
+	"url": {
+		"frequency": "Online Radio",
+		"image": "http://imgur.com/outWjYl.jpg",
+		"link": "http://162.254.150.34:7031/;stream/1"
+	}
+},
+{
+	"name": "Radio Shur",
+	"url": {
+		"frequency": "Online Radio",
+		"image": "http://imgur.com/DRK9RIN.jpg",
+		"link": "http://192.235.87.105:15258/;stream/1"
+	}
+},
+{
+	"name": "Radio Swadesh",
+	"url": {
+		"frequency": "Online Radio",
+		"image": "http://imgur.com/ArFKJTr.jpg",
+		"link": "http://radioswadesh.com:8002/;stream/1"
+	}
+},
+{
+	"name": "Radio Tolpar",
+	"url": {
+		"frequency": "Online Radio",
+		"image": "http://imgur.com/QJouSdw.jpg",
+		"link": "http://173.192.105.231:6129/;stream/1"
+	}
+},
+{
+	"name": "RadioVoice 24",
+	"url": {
+		"frequency": "Online Radio",
+		"image": "http://imgur.com/8M0zhkN.jpg",
+		"link": "http://server.realitsolution.com:5128/;stream/1"
+	}
 }]
