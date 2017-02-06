@@ -40,27 +40,11 @@
 	}
 },
 {
-	"name": "Bangla Radio",
-	"url": {
-		"frequency": "FM 95.2",
-		"image": "http://imgur.com/k33dU9w.jpg",
-		"link": "http://43.224.108.244:6020/;stream/1"
-	}
-},
-{
 	"name": "Radio Dhol",
 	"url": {
 		"frequency": "FM 94.0",
 		"image": "http://imgur.com/C2LaW0j.jpg",
 		"link": "http://192.184.9.158:8233/live"
-	}
-},
-{
-	"name": "Radio Capital",
-	"url": {
-		"frequency": "FM 94.8",
-		"image": "http://imgur.com/B8g4MtP.jpg",
-		"link": "http://198.178.121.76:8165/stream"
 	}
 },
 {
@@ -77,22 +61,6 @@
 		"frequency": "FM 94.4",
 		"image": "http://imgur.com/rTnYaMn.jpg",
 		"link": "http://192.240.102.3:9099/;stream"
-	}
-},
-{
-	"name": "Radio Aamar",
-	"url": {
-		"frequency": "FM 88.4",
-		"image": "http://imgur.com/DcRYlGf.jpg",
-		"link": "http://192.184.9.158:8343/live?type=.mp3"
-	}
-},
-{
-	"name": "Radio Jottil",
-	"url": {
-		"frequency": "Online Radio",
-		"image": "http://imgur.com/Yf8pPG1.jpg",
-		"link": "http://listen.radiojottil.com:8348/;stream/1"
 	}
 },
 {
@@ -224,14 +192,6 @@
 	}
 },
 {
-	"name": "Radio Ek Tara",
-	"url": {
-		"frequency": "Online Radio",
-		"image": "http://imgur.com/zLVmvjW.jpg",
-		"link": "http://162.254.150.34:7001/;stream/1"
-	}
-},
-{
 	"name": "Radio GoonGoon",
 	"url": {
 		"frequency": "Online Radio",
@@ -285,14 +245,6 @@
 		"frequency": "Online Radio",
 		"image": "http://imgur.com/ArFKJTr.jpg",
 		"link": "http://radioswadesh.com:8002/;stream/1"
-	}
-},
-{
-	"name": "Radio Tolpar",
-	"url": {
-		"frequency": "Online Radio",
-		"image": "http://imgur.com/QJouSdw.jpg",
-		"link": "http://173.192.105.231:6129/;stream/1"
 	}
 },
 {
