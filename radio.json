@@ -40,6 +40,14 @@
 	}
 },
 {
+	"name": "Spice FM BD",
+	"url": {
+		"frequency": "FM 96.4",
+		"image": "http://imgur.com/BuF18t1.jpg",
+		"link": "http://162.254.149.187:9300/stream"
+	}
+},
+{
 	"name": "Radio Dhol",
 	"url": {
 		"frequency": "FM 94.0",
@@ -253,5 +261,93 @@
 		"frequency": "Online Radio",
 		"image": "http://imgur.com/8M0zhkN.jpg",
 		"link": "http://server.realitsolution.com:5128/;stream/1"
+	}
+},
+{
+	"name": "Friends FM",
+	"url": {
+		"frequency": "FM 91.9",
+		"image": "http://imgur.com/ui3os3K.jpg",
+		"link": "http://188.166.176.244:8919/;"
+	}
+},
+{
+	"name": "Hello Dhaka",
+	"url": {
+		"frequency": "Online Radio",
+		"image": "http://imgur.com/h73wPps.jpg",
+		"link": "http://108.163.245.230:8000/high"
+	}
+},
+{
+	"name": "Radio Gaan Baksho",
+	"url": {
+		"frequency": "Online Radio",
+		"image": "http://imgur.com/KXUIwuw.jpg",
+		"link": "http://184.154.202.243:8028/stream"
+	}
+},
+{
+	"name": "Radio Janjot",
+	"url": {
+		"frequency": "Online Radio",
+		"image": "http://imgur.com/uIlRONm.jpg",
+		"link": "http://streaming.radionomy.com/JamendoLounge"
+	}
+},
+{
+	"name": "Radio Mrittika",
+	"url": {
+		"frequency": "Online Radio",
+		"image": "http://imgur.com/h48CBHg.jpg",
+		"link": "http://equinox.shoutca.st:8535/;"
+	}
+},
+{
+	"name": "Radio Sarabela",
+	"url": {
+		"frequency": "Online Radio",
+		"image": "http://imgur.com/i50ySRg.jpg",
+		"link": "http://162.254.149.146:9308/;stream/1/;stream/1"
+	}
+},
+{
+	"name": "Radio Ullash",
+	"url": {
+		"frequency": "Online Radio",
+		"image": "http://imgur.com/wFWDxUo.jpg",
+		"link": "http://streaming.radionomy.com/RadioUllash"
+	}
+},
+{
+	"name": "Radio Uthshob",
+	"url": {
+		"frequency": "Online Radio",
+		"image": "http://imgur.com/BlTCj8h.jpg",
+		"link": "http://178.238.233.142:9300/stream"
+	}
+},
+{
+	"name": "Radio 71",
+	"url": {
+		"frequency": "FM 98.4",
+		"image": "http://imgur.com/aW28ZsM.jpg",
+		"link": "http://103.253.47.173:8000/;stream/1;"
+	}
+},
+{
+	"name": "Radio Kotha",
+	"url": {
+		"frequency": "Online Radio",
+		"image": "http://imgur.com/9yO2Pby.jpg",
+		"link": "http://188.165.201.120:8016/stream?type=.mp3"
+	}
+},
+{
+	"name": "Washington Bangla Radio",
+	"url": {
+		"frequency": "Online Radio",
+		"image": "http://imgur.com/yNPxwGN.jpg",
+		"link": "http://banglaradio.homeip.net:8000/;stream/1"
 	}
 }]
